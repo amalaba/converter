@@ -1,0 +1,106 @@
+hgroup{
+    text-align: center;
+}
+
+.logo-text{
+    color:#262626;
+}
+
+.logo-caption{
+    color:#d4d2bb;
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+
+}
+
+li{
+    display: inline;
+    padding-right: 10px;
+
+}
+
+.main-nav {
+    background-color: #262626;
+}
+
+a {
+    color : #db3100;
+    text-decoration: none;
+}
+.main {
+    width: 1200px;
+    overflow: hidden;
+}
+.section-about-me{
+    background-color: #D14923;
+    overflow: hidden;
+    width: 100%;
+}
+.section-about-me .content-wrapper {
+    padding: 100px 20px 50px 20px;
+    overflow: hidden;
+}
+
+.about-me{
+    background-color: #A79314;
+    float: left;
+    padding: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.find-me{
+    background-color: #E5E2CF;
+    float: right;
+    padding: 10px;
+    width: 30%;
+    border-radius: 10px;
+}
+
+.section-heading{
+    background-color: #d4d2bb;
+}
+
+.skill-wrapper{
+    background-color: #cccccc;
+}
+
+.label{
+    background-color: #aaaaaa;
+}
+
+.rating {
+    background-color: #6A98D1;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.contact {
+    background-color: #262626;
+}
+
+.contact-heading {
+    color:#f5ea8b;
+}
+
+.contact-form, .contact-address {
+    color: #cccccc;
+}
+
+.article-1{
+    float: left;
+}
+.article-2{
+    float: left;
+}
+.article-3{
+    float: left;
+}
+
+.contact-section-separator{
+    clear:both;
+}
